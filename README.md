@@ -353,3 +353,34 @@ Open To:
   - Full Stack Development Internships
   - Python / Backend Internships
   - AI / Agentic AI Internships
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:bharath814bharath@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-bharath814bharath%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bharath-n-489360245/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Bharath-buoy">
+<img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+> Build useful things. Understand how they work. Keep improving.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6D28D9,100:312E81&height=120&section=footer" width="100%"/>
+
+</div>
