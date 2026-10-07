@@ -355,6 +355,7 @@ Open To:
   - AI / Agentic AI Internships
 ---
 
+```
 # Connect
 
 <div align="center">
