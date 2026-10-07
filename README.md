@@ -304,38 +304,6 @@ Worked on practical full-stack web development during my BCA, including an e-com
 
 </div>
 
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Bharath-buoy&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" width="92%" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharath-buoy&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=7C3AED&area=true&hide_border=true" width="96%" alt="Contribution Activity"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Bharath-buoy/Bharath-buoy/output/github-contribution-grid-snake-dark.svg" width="96%" alt="Contribution Snake"/>
-
-</div>
-
----
-
 # Current Focus
 
 ```yaml
